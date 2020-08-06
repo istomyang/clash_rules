@@ -1,0 +1,32 @@
+# 这是来自网络收集整理而来的。
+
+# DOMAIN-SUFFIX：域名后缀匹配
+# DOMAIN：域名匹配
+# DOMAIN-KEYWORD：域名关键字匹配
+# IP-CIDR：IP段匹配
+# SRC-IP-CIDR：源IP段匹配
+# GEOIP：GEOIP数据库（国家代码）匹配
+# DST-PORT：目标端口匹配
+# SRC-PORT：源端口匹配
+# MATCH：全匹配（一般放在最后）
+
+# 微软（不需要代理的）
+# onedrive 单独处理
+# https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Microsoft.list
+DOMAIN-KEYWORD,azure
+DOMAIN,www.microsoftstore.com.cn
+DOMAIN,www.microsoft.com
+DOMAIN,docs.microsoft.com
+DOMAIN,www.yammer.com
+DOMAIN,www.wunderlist.com
+DOMAIN,visualstudio.microsoft.com
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,onenote.officeapps.live.com
+DOMAIN-SUFFIX,onenote.com
+DOMAIN-SUFFIX,onenote.net
+DOMAIN-SUFFIX,uservoice.com
+DOMAIN-SUFFIX,windowsupdate.com
+DOMAIN-SUFFIX,aka.ms
+
+
+
