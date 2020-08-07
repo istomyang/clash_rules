@@ -31,6 +31,8 @@ DOMAIN-SUFFIX,aka.ms
 
 # 开发
 DOMAIN-SUFFIX,vuejs.org
+DOMAIN-SUFFIX,mongodb.com
+DOMAIN,man.linuxde.net
 
 
 
