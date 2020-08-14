@@ -21,6 +21,9 @@ DOMAIN-SUFFIX,microsoft.net
 # ssr
 DOMAIN,vip.600mbps.xyz
 
+#开发
+DOMAIN,developer.android.com
+
 # 碎片
 DOMAIN,www.inverse.com
 DOMAIN-SUFFIX,wikipedia.org
