@@ -18,7 +18,7 @@ DOMAIN,www.microsoftstore.com.cn
 DOMAIN,www.microsoft.com
 DOMAIN,www.docs.microsoft.com
 DOMAIN,www.yammer.com
-DOMAIN,www.wunderlist.com
+# DOMAIN,www.wunderlist.com
 DOMAIN,www.visualstudio.microsoft.com
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,onenote.officeapps.live.com
@@ -36,4 +36,17 @@ DOMAIN,man.linuxde.net
 DOMAIN,es6.ruanyifeng.com
 
 
+
+# 来自 ACL4SSR 的精简
+
+## 本地/局域网地址：https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
+### 本地/局域网地址(我删除IP6)
+DOMAIN-SUFFIX,local
+DOMAIN-SUFFIX,localhost
+IP-CIDR,10.0.0.0/8,no-resolve
+IP-CIDR,100.64.0.0/10,no-resolve
+IP-CIDR,127.0.0.0/8,no-resolve
+IP-CIDR,172.16.0.0/12,no-resolve
+IP-CIDR,192.168.0.0/16,no-resolve
+### 路由器
 

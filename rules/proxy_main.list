@@ -138,10 +138,10 @@ DOMAIN-SUFFIX,twimg.org
 # IP-CIDR,204.15.20.0/22,no-resolve
 
 # Pornhub
-DOMAIN-SUFFIX,phncdn.com
-DOMAIN-SUFFIX,phprcdn.com
+# DOMAIN-SUFFIX,phncdn.com
+# DOMAIN-SUFFIX,phprcdn.com
 DOMAIN-SUFFIX,pornhub.com
-DOMAIN-SUFFIX,pornhubpremium.com
+# DOMAIN-SUFFIX,pornhubpremium.com
 
 # Instagram
 DOMAIN-SUFFIX,cdninstagram.com
