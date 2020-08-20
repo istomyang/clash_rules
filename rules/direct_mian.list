@@ -21,9 +21,9 @@ DOMAIN,www.yammer.com
 # DOMAIN,www.wunderlist.com
 DOMAIN,www.visualstudio.microsoft.com
 DOMAIN-SUFFIX,bing.com
-DOMAIN-SUFFIX,onenote.officeapps.live.com
-DOMAIN-SUFFIX,onenote.com
-DOMAIN-SUFFIX,onenote.net
+# DOMAIN-SUFFIX,onenote.officeapps.live.com
+# DOMAIN-SUFFIX,onenote.com
+# DOMAIN-SUFFIX,onenote.net
 DOMAIN-SUFFIX,uservoice.com
 DOMAIN-SUFFIX,windowsupdate.com
 DOMAIN-SUFFIX,aka.ms
