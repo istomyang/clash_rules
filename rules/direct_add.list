@@ -13,10 +13,10 @@
 # 国内google
 DOMAIN-SUFFIX,google.cn
 
-# notion
-DOMAIN,www.notion.so
+
 
 # jetbrains
 DOMAIN-SUFFIX,jetbrains.com
 
 DOMAIN,www.kotlincn.net
+
