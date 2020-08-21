@@ -12,3 +12,11 @@ DOMAIN-SUFFIX,www.notion.so
 # pornhub
 # http://ping.chinaz.com/cn.pornhub.com
 # IP-CIDR,66.254.114.41,no-resolve
+
+
+# 微软
+## OneNote
+DOMAIN-KEYWORD,1drv
+DOMAIN-SUFFIX,onenote.officeapps.live.com
+DOMAIN-SUFFIX,onenote.com
+DOMAIN-SUFFIX,onenote.net

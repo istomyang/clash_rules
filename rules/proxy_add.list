@@ -10,17 +10,6 @@
 # SRC-PORT：源端口匹配
 # MATCH：全匹配（一般放在最后）
 
-
-# 微软
-DOMAIN-KEYWORD,1drv
-DOMAIN-SUFFIX,live.com
-DOMAIN-SUFFIX,live.net
-DOMAIN-SUFFIX,microsoft.com
-DOMAIN-SUFFIX,microsoft.net
-DOMAIN-SUFFIX,onenote.officeapps.live.com
-DOMAIN-SUFFIX,onenote.com
-DOMAIN-SUFFIX,onenote.net
-
 # ssr
 DOMAIN,vip.600mbps.xyz
 
