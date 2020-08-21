@@ -6,6 +6,8 @@ DOMAIN-SUFFIX,mozilla.net
 DOMAIN,material.io
 DOMAIN-KEYWORD,wiki
 
+DOMAIN-SUFFIX,unsplash.com
+
 # notion
 DOMAIN-SUFFIX,www.notion.so
 
