@@ -1,3 +1,6 @@
+
+# Clash关于hosts的讨论：https://github.com/Dreamacro/clash/issues/774
+# 需要配合本地Hosts修改
 DOMAIN,xmind.com
 DOMAIN,xmind.net
 DOMAIN,xmind.cn
