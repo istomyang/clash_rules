@@ -20,6 +20,7 @@ DOMAIN-SUFFIX,notion.so
 # 微软
 ## OneNote
 DOMAIN-KEYWORD,1drv
-DOMAIN-SUFFIX,onenote.officeapps.live.com
-DOMAIN-SUFFIX,onenote.com
-DOMAIN-SUFFIX,onenote.net
+DOMAIN-KEYWORD,onenote
+# DOMAIN-SUFFIX,onenote.officeapps.live.com
+# DOMAIN-SUFFIX,onenote.com
+# DOMAIN-SUFFIX,onenote.net
