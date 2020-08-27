@@ -21,3 +21,6 @@ DOMAIN,developer.android.com
 # 碎片
 DOMAIN,www.inverse.com
 DOMAIN-SUFFIX,wikipedia.org
+
+# 检测IP使用
+DOMAIN,cip.cc
