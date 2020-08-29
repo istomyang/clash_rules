@@ -17,10 +17,13 @@ DOMAIN,vip.600mbps.xyz
 DOMAIN,developer.android.com
 
 
-
 # 碎片
 DOMAIN,www.inverse.com
-DOMAIN-SUFFIX,wikipedia.org
 
 # 检测IP使用
 DOMAIN-SUFFIX,cip.cc
+
+# 维基百科
+DOMAIN-KEYWORD,wiki
+DOMAIN-SUFFIX,wikipedia.org
+DOMAIN,zh.wikipedia.org
