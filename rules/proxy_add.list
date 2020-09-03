@@ -19,6 +19,7 @@ DOMAIN,developer.android.com
 
 # 碎片
 DOMAIN,www.inverse.com
+DOMAIN-SUFFIX,unsplash.com
 
 # 检测IP使用
 DOMAIN-SUFFIX,cip.cc
