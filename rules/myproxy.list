@@ -1,1 +1,2 @@
-DOMAIN-SUFFIX,cip.cc #检测IP
+ #检测IP
+DOMAIN-SUFFIX,cip.cc
