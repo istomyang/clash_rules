@@ -4,23 +4,10 @@ DOMAIN,www.debian.org
 DOMAIN-SUFFIX,mozilla.org
 DOMAIN-SUFFIX,mozilla.net
 DOMAIN,material.io
-
-
-
 DOMAIN,www.itpanda.net
-
-# notion
 DOMAIN-SUFFIX,notion.so
+
 
 # pornhub
 # http://ping.chinaz.com/cn.pornhub.com
 # IP-CIDR,66.254.114.41,no-resolve
-
-
-# 微软
-## OneNote
-DOMAIN-KEYWORD,1drv
-DOMAIN-KEYWORD,onenote
-# DOMAIN-SUFFIX,onenote.officeapps.live.com
-# DOMAIN-SUFFIX,onenote.com
-# DOMAIN-SUFFIX,onenote.net
