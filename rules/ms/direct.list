@@ -5,8 +5,11 @@ DOMAIN,www.microsoft.com
 DOMAIN,www.docs.microsoft.com
 DOMAIN,www.yammer.com
 DOMAIN,www.wunderlist.com
-DOMAIN,www.visualstudio.microsoft.com
+#DOMAIN,www.visualstudio.microsoft.com
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,uservoice.com
 DOMAIN-SUFFIX,windowsupdate.com
 DOMAIN-SUFFIX,aka.ms
+
+# 开发
+DOMAIN-KEYWORD,visualstudio
