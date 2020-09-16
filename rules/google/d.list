@@ -15,50 +15,50 @@ DOMAIN,mtalk.google.com
 # DOMAIN-SUFFIX,google.cn
 
 # Google China
-DOMAIN,translate.googleapis.com
-DOMAIN,265.com
-DOMAIN,2mdn.net
-DOMAIN,app-measurement.com
-DOMAIN,c.android.clients.google.com
-DOMAIN,cache.pack.google.com
-DOMAIN,clickserve.dartsearch.net
-DOMAIN,clientservices.googleapis.com
-DOMAIN,crl.pki.goog
-DOMAIN,dl.google.com
-DOMAIN,dl.l.google.com
-DOMAIN,fonts.googleapis.com
-DOMAIN,fonts.gstatic.com
-DOMAIN,googletagmanager.com
-DOMAIN,googletagservices.com
-DOMAIN,gtm.oasisfeng.com
-DOMAIN,imasdk.googleapis.com
-DOMAIN,kh.google.com
-DOMAIN,khm.google.com
-DOMAIN,khm.googleapis.com
-DOMAIN,khm0.google.com
-DOMAIN,khm0.googleapis.com
-DOMAIN,khm1.google.com
-DOMAIN,khm1.googleapis.com
-DOMAIN,khm2.google.com
-DOMAIN,khm2.googleapis.com
-DOMAIN,khm3.google.com
-DOMAIN,khm3.googleapis.com
-DOMAIN,khmdb.google.com
-DOMAIN,khmdb.googleapis.com
-DOMAIN,ocsp.pki.goog
-DOMAIN,recaptcha.net
-DOMAIN,redirector.gvt1.com
-DOMAIN,safebrowsing-cache.google.com
-DOMAIN,safebrowsing.googleapis.com
-DOMAIN,settings.crashlytics.com
-DOMAIN,ssl-google-analytics.l.google.com
-DOMAIN,ssl.gstatic.com
-DOMAIN,toolbarqueries.google.com
-DOMAIN,tools.google.com
-DOMAIN,tools.l.google.com
-DOMAIN,update.googleapis.com
-DOMAIN,www-googletagmanager.l.google.com
-DOMAIN,www.gstatic.com
+# DOMAIN,translate.googleapis.com
+# DOMAIN,265.com
+# DOMAIN,2mdn.net
+# DOMAIN,app-measurement.com
+# DOMAIN,c.android.clients.google.com
+# DOMAIN,cache.pack.google.com
+# DOMAIN,clickserve.dartsearch.net
+# DOMAIN,clientservices.googleapis.com
+# DOMAIN,crl.pki.goog
+# DOMAIN,dl.google.com
+# DOMAIN,dl.l.google.com
+# DOMAIN,fonts.googleapis.com
+# DOMAIN,fonts.gstatic.com
+# DOMAIN,googletagmanager.com
+# DOMAIN,googletagservices.com
+# DOMAIN,gtm.oasisfeng.com
+# DOMAIN,imasdk.googleapis.com
+# DOMAIN,kh.google.com
+# DOMAIN,khm.google.com
+# DOMAIN,khm.googleapis.com
+# DOMAIN,khm0.google.com
+# DOMAIN,khm0.googleapis.com
+# DOMAIN,khm1.google.com
+# DOMAIN,khm1.googleapis.com
+# DOMAIN,khm2.google.com
+# DOMAIN,khm2.googleapis.com
+# DOMAIN,khm3.google.com
+# DOMAIN,khm3.googleapis.com
+# DOMAIN,khmdb.google.com
+# DOMAIN,khmdb.googleapis.com
+# DOMAIN,ocsp.pki.goog
+# DOMAIN,recaptcha.net
+# DOMAIN,redirector.gvt1.com
+# DOMAIN,safebrowsing-cache.google.com
+# DOMAIN,safebrowsing.googleapis.com
+# DOMAIN,settings.crashlytics.com
+# DOMAIN,ssl-google-analytics.l.google.com
+# DOMAIN,ssl.gstatic.com
+# DOMAIN,toolbarqueries.google.com
+# DOMAIN,tools.google.com
+# DOMAIN,tools.l.google.com
+# DOMAIN,update.googleapis.com
+# DOMAIN,www-googletagmanager.l.google.com
+# DOMAIN,www.gstatic.com
 
 
 # 不倾向于用IP
