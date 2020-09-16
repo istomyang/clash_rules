@@ -1,5 +1,6 @@
 ## 参考
 - ACL4SSR:https://github.com/ACL4SSR/ACL4SSR/tree/master
+- IP列表：https://iphunter.net/aips/
 
 ## Clash支持的规则
 - DOMAIN-SUFFIX：域名后缀匹配
