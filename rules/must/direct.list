@@ -24,3 +24,5 @@ IP-CIDR6,fd00::/8,no-resolve
 # DOMAIN-SUFFIX,routerlogin.com
 # DOMAIN-SUFFIX,tendawifi.com
 # DOMAIN-SUFFIX,zte.home
+
+# 尽可能交给GeoIP
