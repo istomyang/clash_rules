@@ -1,26 +1,21 @@
 # 维基
 DOMAIN-KEYWORD,wiki
 DOMAIN,zh.wikipedia.org
-DOMAIN-SUFFIX,mediawiki.org
-DOMAIN-SUFFIX,wikibooks.org
-DOMAIN-SUFFIX,wikidata.org
-DOMAIN-SUFFIX,wikileaks.org
-DOMAIN-SUFFIX,wikimedia.org
-DOMAIN-SUFFIX,wikinews.org
-DOMAIN-SUFFIX,wikipedia.org
-DOMAIN-SUFFIX,wikiquote.org
-DOMAIN-SUFFIX,wikisource.org
-DOMAIN-SUFFIX,wikiversity.org
-DOMAIN-SUFFIX,wikivoyage.org
+# DOMAIN-SUFFIX,mediawiki.org
+# DOMAIN-SUFFIX,wikibooks.org
+# DOMAIN-SUFFIX,wikidata.org
+# DOMAIN-SUFFIX,wikileaks.org
+# DOMAIN-SUFFIX,wikimedia.org
+# DOMAIN-SUFFIX,wikinews.org
+# DOMAIN-SUFFIX,wikipedia.org
+# DOMAIN-SUFFIX,wikiquote.org
+# DOMAIN-SUFFIX,wikisource.org
+# DOMAIN-SUFFIX,wikiversity.org
+# DOMAIN-SUFFIX,wikivoyage.org
 DOMAIN-SUFFIX,wiktionary.org
 
 # Github
 DOMAIN-KEYWORD,github
-#DOMAIN-SUFFIX,github.com
-#DOMAIN-SUFFIX,github.io
-DOMAIN-SUFFIX,githubapp.com
-DOMAIN-SUFFIX,githubassets.com
-DOMAIN-SUFFIX,githubusercontent.com
 
 # Amazon
 DOMAIN-SUFFIX,amazon.com
@@ -30,8 +25,6 @@ DOMAIN-KEYWORD,telegram
 DOMAIN-SUFFIX,t.me
 DOMAIN-SUFFIX,tdesktop.com
 DOMAIN-SUFFIX,telegra.ph
-#DOMAIN-SUFFIX,telegram.me
-#DOMAIN-SUFFIX,telegram.org
 DOMAIN-SUFFIX,telesco.pe
 IP-CIDR,91.108.0.0/16,no-resolve
 IP-CIDR,109.239.140.0/24,no-resolve

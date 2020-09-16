@@ -1,4 +1,5 @@
 # 微软（OneNote）
-DOMAIN-SUFFIX,onenote.officeapps.live.com
-DOMAIN-SUFFIX,onenote.com
-DOMAIN-SUFFIX,onenote.net
+DOMAIN-KEYWORD,onenote
+# DOMAIN-SUFFIX,onenote.officeapps.live.com
+# DOMAIN-SUFFIX,onenote.com
+# DOMAIN-SUFFIX,onenote.net
