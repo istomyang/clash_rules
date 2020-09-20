@@ -5,8 +5,10 @@ DOMAIN-SUFFIX,mozilla.org
 DOMAIN-SUFFIX,mozilla.net
 DOMAIN,material.io
 DOMAIN,www.itpanda.net
-DOMAIN-SUFFIX,notion.so
-DOMAIN-SUFFIX,unsplash.com
+
+DOMAIN-KEYWORD,notion
+DOMAIN-KEYWORD,unsplash
+DOMAIN-KEYWORD,vue
 
 
 # pornhub
