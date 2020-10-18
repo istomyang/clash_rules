@@ -2,6 +2,3 @@
 DOMAIN,www.cip.cc
 
 DOMAIN,medium.com
-
-# 一些特殊的，貌似是服务器地址，都是香港的
-IP-CIDR,103.228.130.61,no-resolve
