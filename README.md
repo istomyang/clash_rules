@@ -1,5 +1,7 @@
+# clash_rules
+
 ## 参考
-- ACL4SSR:https://github.com/ACL4SSR/ACL4SSR/tree/master
+- ACL4SSR:https://github.com/ACL4SSR/ACL4SSR/tree/master/Clash/Ruleset
 - IP列表：https://iphunter.net/aips/
 
 ## Clash支持的规则
