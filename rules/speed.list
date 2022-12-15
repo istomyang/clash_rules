@@ -1,7 +1,12 @@
-DOMAIN-KEYWORD,notion
-DOMAIN-KEYWORD,unsplash
-DOMAIN-KEYWORD,elastic
-DOMAIN-KEYWORD,docker
+DOMAIN-SUFFIX,elastic.co
+DOMAIN-SUFFIX,unsplash.com
+
+# Notion
+DOMAIN-SUFFIX,notion.so
+DOMAIN-SUFFIX,amazonaws.com
+
+DOMAIN-SUFFIX,docker.com
+
 
 # DOMAIN-KEYWORD,vue
 # DOMAIN-SUFFIX,jetbrains.com
@@ -9,3 +14,10 @@ DOMAIN-KEYWORD,docker
 # pornhub
 # http://ping.chinaz.com/cn.pornhub.com
 # IP-CIDR,66.254.114.41,no-resolve
+
+DOMAIN-KEYWORD,github
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,githubapp.com
+DOMAIN-SUFFIX,githubassets.com
+DOMAIN-SUFFIX,githubusercontent.com
