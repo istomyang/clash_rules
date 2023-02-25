@@ -3,5 +3,23 @@ DOMAIN-SUFFIX,xvideos.com
 DOMAIN-SUFFIX,v2ex.com
 
 DOMAIN-SUFFIX,v2ray.com
-
 DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,elastic.co
+DOMAIN-SUFFIX,unsplash.com
+DOMAIN-SUFFIX,docker.com
+
+# Github
+DOMAIN-KEYWORD,github
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,githubapp.com
+DOMAIN-SUFFIX,githubassets.com
+DOMAIN-SUFFIX,githubusercontent.com
+
+# stackflow
+DOMAIN-SUFFIX,stackoverflow.com
+
+# Notion
+DOMAIN-SUFFIX,notion.so
+DOMAIN-SUFFIX,amazonaws.com
+
